@@ -5,7 +5,7 @@ function guessNumber() {
     if (guess == secretNumber) {
         console.log("You won, congratulation") 
         } else{
-            console.log("Wrong, it was " + secretNumber + "try again!")
+            console.log("Wrong, it was " + secretNumber + " try again!")
         }
     }
 
